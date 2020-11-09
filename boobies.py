@@ -1,1 +1,1 @@
-print("boobies")
+print("boobies are cool")
